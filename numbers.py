@@ -3,6 +3,8 @@ b = int(input())
 c = int(input())
 d = int()
 d = 0
+
+
 if a > 0:
     d = d + a
 if b > 0:
